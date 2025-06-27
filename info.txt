@@ -3,3 +3,10 @@ Doing the JWT node authentication system with basics understanding
 # npm init
 # npm i express
 # npm i jsonwebtoken
+# npm istall -g nodemon
+# nix profile install nixpkgs#nodemon 
+
+1. While login request generate the jwt token and we can set the expiry time also
+2. Add a keyword bearer for not exposing the token directly and split it while using
+3. Add a headers authorization and enable it while accessing another request
+4. Verify the login token with other requests for secure and robust access granting applications
