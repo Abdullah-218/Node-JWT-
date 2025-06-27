@@ -1,1 +1,5 @@
 Doing the JWT node authentication system with basics understanding
+
+# npm init
+# npm i express
+# npm i jsonwebtoken
